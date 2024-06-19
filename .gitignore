@@ -1,0 +1,19 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Compiled class files
+bin/
+
+# Maven target directory
+target/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# MacOS specific files
+.DS_Store
